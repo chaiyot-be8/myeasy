@@ -4,10 +4,10 @@
         {
             "sourcePath": "/Users/chaiyot/dev/myeasy/force-app",
             "isDirectory": true,
-            "size": 96,
-            "modifiedTime": 1538538616610,
-            "changeTime": 1538538616610,
-            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "size": 128,
+            "modifiedTime": 1538541488971,
+            "changeTime": 1538541488971,
+            "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false,
@@ -19,10 +19,10 @@
         {
             "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main",
             "isDirectory": true,
-            "size": 96,
-            "modifiedTime": 1538538616612,
-            "changeTime": 1538538616612,
-            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "size": 128,
+            "modifiedTime": 1538541488975,
+            "changeTime": 1538541488975,
+            "contentHash": "ae41ed56706e4439a34cda97ac997d7988935c2f",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false,
@@ -32,14 +32,16 @@
     [
         "/Users/chaiyot/dev/myeasy/force-app/main/default",
         {
-            "state": "u",
             "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 384,
             "modifiedTime": 1538549648985,
             "changeTime": 1538549648985,
-            "contentHash": "baf36054dcf75bbaf0b253b6ede0b43529a3cc52"
+            "contentHash": "baf36054dcf75bbaf0b253b6ede0b43529a3cc52",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -62,14 +64,13 @@
         {
             "sourcePath": "/Users/chaiyot/dev/myeasy",
             "isDirectory": true,
-            "size": 288,
-            "modifiedTime": 1538540794554,
-            "changeTime": 1538540794554,
-            "contentHash": "482aba1731d0a586e52ba05892f68b26d69ba4fe",
+            "size": 416,
+            "modifiedTime": 1538549860273,
+            "changeTime": 1538549860273,
+            "contentHash": "a0c8a93e3461264eb3808e4cd1ade35e2ae49fa2",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": true,
-            "isArtifactRoot": false
+            "isWorkspace": true
         }
     ],
     [
@@ -82,7 +83,9 @@
             "changeTime": 1538540852600,
             "contentHash": "c2ba1727bf103c2ab49de4c4754766d028de20f1",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -95,7 +98,9 @@
             "changeTime": 1538540852612,
             "contentHash": "6d5d4850463067e500554c4ffa8a242ef828b26e",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -108,7 +113,9 @@
             "changeTime": 1538543935217,
             "contentHash": "78aad3480144e3e512b6ed21ec50669860fedfd8",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -121,7 +128,9 @@
             "changeTime": 1538540852618,
             "contentHash": "3c08782ca82cca4fd7569a2c23f00bce6623f3d4",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -134,7 +143,9 @@
             "changeTime": 1538540852642,
             "contentHash": "f85415d5bec7d38a22dbf36df6916e459b8f05b5",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -147,7 +158,9 @@
             "changeTime": 1538540852643,
             "contentHash": "c0c0a535bc378420d7ae804f1195e6de33bef4eb",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -160,7 +173,9 @@
             "changeTime": 1538540852643,
             "contentHash": "d20213c5a36261a97bbefe05867a138be33c8f0e",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -173,7 +188,9 @@
             "changeTime": 1538540852644,
             "contentHash": "83d80bad38c843340220b6d299c2d8ebe5179eb5",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -186,7 +203,9 @@
             "changeTime": 1538540852644,
             "contentHash": "b4d2b74ca80ef9dbf8ce2cb2acd57a6d2da90160",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -199,7 +218,9 @@
             "changeTime": 1538540852644,
             "contentHash": "00344b4aca849ec6030feeb736bf51cbad91d8df",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -212,7 +233,9 @@
             "changeTime": 1538540852644,
             "contentHash": "1ef0adbe7b465984dba27403b430e34466621ba3",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -225,7 +248,9 @@
             "changeTime": 1538540852645,
             "contentHash": "76cd34faa5ab3268cd5c2c5cd9064d8d1666a21b",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -238,7 +263,9 @@
             "changeTime": 1538540852645,
             "contentHash": "f5b04b3370748fb868e5664a062079529159bba2",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -251,7 +278,9 @@
             "changeTime": 1538540852646,
             "contentHash": "bc9df585a8dbacbf322e07be00b726f3f0da2e0b",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -264,7 +293,9 @@
             "changeTime": 1538540852646,
             "contentHash": "03aef4bdf2cdc759d565e3ce021db84dffe9f0f6",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -277,7 +308,9 @@
             "changeTime": 1538540852647,
             "contentHash": "ce0b0cd731f01ae43ce0bcde4f6ba5d30b35fdc3",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -290,7 +323,9 @@
             "changeTime": 1538540852682,
             "contentHash": "ee9bf9bd44f6dea3f045b2e901bdaa0e0d58e203",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -303,7 +338,9 @@
             "changeTime": 1538540852687,
             "contentHash": "d9d9a60538bd3a49f28a16dc7651d0d36b174aed",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -316,7 +353,9 @@
             "changeTime": 1538540852688,
             "contentHash": "ad0ed03da50bdbdca9dbbb43e06577ca1edcc274",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -329,7 +368,9 @@
             "changeTime": 1538540852688,
             "contentHash": "0003ce9322a3cf36acfd4cca2892187a69458481",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -342,7 +383,9 @@
             "changeTime": 1538540852689,
             "contentHash": "dccb9f564846052f7c866b5b17e742d32917db01",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -355,7 +398,9 @@
             "changeTime": 1538540852689,
             "contentHash": "29c39e26ebc46bfe82c4388cd97a07697cdd3567",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -368,7 +413,9 @@
             "changeTime": 1538540852689,
             "contentHash": "2bf090ea4eae28d07888e797a6cdda9c16d04c8f",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -381,7 +428,9 @@
             "changeTime": 1538540852690,
             "contentHash": "abead2eca2b72acea9a0283fdf312b7c12449b8b",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -394,7 +443,9 @@
             "changeTime": 1538543935232,
             "contentHash": "d599e2743085217a191cd6173ee24325e13a78de",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -407,7 +458,9 @@
             "changeTime": 1538540852705,
             "contentHash": "435bd78bdf5d30e6d15cd41363238b64057825a2",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -420,7 +473,9 @@
             "changeTime": 1538540852706,
             "contentHash": "bd2781c468a9118e799e2d378a4ef05c9d456af0",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -433,7 +488,9 @@
             "changeTime": 1538540852706,
             "contentHash": "561c003c858bdc8fa71c66b84bd96261262f1944",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -446,7 +503,9 @@
             "changeTime": 1538540852706,
             "contentHash": "88fa690a98e3683b740d7f79b594181f30a552b2",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -459,7 +518,9 @@
             "changeTime": 1538540852707,
             "contentHash": "7a2e1dbae96d94eeac560f7016ec9843310b274b",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -472,7 +533,9 @@
             "changeTime": 1538540852707,
             "contentHash": "237465fe39009beaa6065e6080b9e3e048f9e7eb",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -485,7 +548,9 @@
             "changeTime": 1538540852713,
             "contentHash": "d117868f3911c002064e03234cb2375dafe8f89d",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -498,7 +563,9 @@
             "changeTime": 1538540852730,
             "contentHash": "edd55781832b9146c86d5e48e2bca19305f7cf9f",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -511,7 +578,9 @@
             "changeTime": 1538540852735,
             "contentHash": "041fdc984ffdf519714bd14750b870246156e302",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -524,7 +593,9 @@
             "changeTime": 1538540852744,
             "contentHash": "4ba1571d66b268cc2dde7f1fd4599407dfaddcf9",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -537,7 +608,9 @@
             "changeTime": 1538540852751,
             "contentHash": "0ab5e580d618f20da3fa384536f67b6caa61b03d",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -550,7 +623,9 @@
             "changeTime": 1538540852764,
             "contentHash": "0b573acd22e330eb8ea41b22d114319facb80164",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -563,7 +638,9 @@
             "changeTime": 1538540852770,
             "contentHash": "4c529ab559c66367f2e5cab431883b426408678b",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -576,7 +653,9 @@
             "changeTime": 1538540852773,
             "contentHash": "245c91c938b8e1ecefd265b3c41b9ee1e32b6cab",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -589,7 +668,9 @@
             "changeTime": 1538540852774,
             "contentHash": "ddeae5eadbf9e422cad0188d1418fd25bc244096",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -602,59 +683,69 @@
             "changeTime": 1538540852777,
             "contentHash": "d50e1146086572c148512d11157e7f0b600961f2",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/chaiyot/dev/myeasy/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 10585,
             "modifiedTime": 1538549648892,
             "changeTime": 1538549648892,
-            "contentHash": "1ab3334f3ae0e9295932c162b2e414cd717b5d27"
+            "contentHash": "1ab3334f3ae0e9295932c162b2e414cd717b5d27",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/chaiyot/dev/myeasy/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 10249,
             "modifiedTime": 1538549648915,
             "changeTime": 1538549648915,
-            "contentHash": "45c9253ba86a06ed9230647e0ba57dffc8a6c873"
+            "contentHash": "45c9253ba86a06ed9230647e0ba57dffc8a6c873",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/chaiyot/dev/myeasy/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 24649,
             "modifiedTime": 1538549648975,
             "changeTime": 1538549648975,
-            "contentHash": "3a4bf34d7220b9d87911e7e3a3dc5a59678ebca5"
+            "contentHash": "3a4bf34d7220b9d87911e7e3a3dc5a59678ebca5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/chaiyot/dev/myeasy/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 10245,
             "modifiedTime": 1538549648983,
             "changeTime": 1538549648983,
-            "contentHash": "dc855fa69bf5bea2c4adc34229f862facfc02f84"
+            "contentHash": "dc855fa69bf5bea2c4adc34229f862facfc02f84",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -667,7 +758,9 @@
             "changeTime": 1538540852618,
             "contentHash": "5b31846d56ec02084c8bf1954d93dae03cd28e9e",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -680,20 +773,24 @@
             "changeTime": 1538540852643,
             "contentHash": "b62655c5aa63e2a96a2c0536a4d4441a2f70bc56",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/chaiyot/dev/myeasy/force-app/main/default/objects",
         {
-            "state": "u",
             "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 224,
             "modifiedTime": 1538549648841,
             "changeTime": 1538549648841,
-            "contentHash": "bf16ba11d9284d660bf9e104b0afe0bafd7e2588"
+            "contentHash": "bf16ba11d9284d660bf9e104b0afe0bafd7e2588",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -706,7 +803,9 @@
             "changeTime": 1538540852647,
             "contentHash": "41ddc6d06445515e720c24eaed5bb2d69b13348d",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -719,7 +818,9 @@
             "changeTime": 1538540852683,
             "contentHash": "641de536c2ed4ba826917cf424c10bce434ff161",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -732,7 +833,9 @@
             "changeTime": 1538542067045,
             "contentHash": "1b0cb1744008f396c4f8b45d93065fbd2d62ad75",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -745,7 +848,9 @@
             "changeTime": 1538540852706,
             "contentHash": "0ff9e90f61243a7eeb33f2abb884fc6a18867054",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -758,7 +863,9 @@
             "changeTime": 1538540852707,
             "contentHash": "ea6054a9e1031875c634e5b4a0eb7985390e0551",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -771,7 +878,9 @@
             "changeTime": 1538540852713,
             "contentHash": "be30f06c4ef181dd2bd5dcd588f3d92d65059238",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -784,20 +893,24 @@
             "changeTime": 1538540852713,
             "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/chaiyot/dev/myeasy/force-app/main/default/layouts",
         {
-            "state": "u",
             "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 320,
             "modifiedTime": 1538549648860,
             "changeTime": 1538549648860,
-            "contentHash": "0ad7622f5de5a5f51acf6423052bf3a5ea0b934d"
+            "contentHash": "0ad7622f5de5a5f51acf6423052bf3a5ea0b934d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -810,7 +923,9 @@
             "changeTime": 1538542067049,
             "contentHash": "a1a3c3b675f3be961d8e3cf8e64bbfa73b7a4bef",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -823,7 +938,9 @@
             "changeTime": 1538540852829,
             "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -836,7 +953,9 @@
             "changeTime": 1538542067045,
             "contentHash": "76926e5e95996d3a114e2c9e972c2b3326ddb18c",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -849,7 +968,9 @@
             "changeTime": 1538542067049,
             "contentHash": "29ac0735217fd16a1ebf5793bfa2b5cb7fcd469b",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -862,7 +983,9 @@
             "changeTime": 1538541674837,
             "contentHash": "48101f54be047d2941f357e713fca6ba980b6a20",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -875,215 +998,279 @@
             "changeTime": 1538543935255,
             "contentHash": "44fbab6b97c8bc93f65808a19df9bf877247a201",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/chaiyot/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/Customer_Fields__mdt.object-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/Customer_Fields__mdt.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 189,
             "modifiedTime": 1538549648842,
             "changeTime": 1538549648842,
-            "contentHash": "0ec34745d73d214201519d4f8a57841f4d18a360"
+            "contentHash": "0ec34745d73d214201519d4f8a57841f4d18a360",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/chaiyot/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/fields/Customer_City__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/fields/Customer_City__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 395,
             "modifiedTime": 1538549648846,
             "changeTime": 1538549648846,
-            "contentHash": "ada6ccae9353762ea32372a9af05b1e3db136139"
+            "contentHash": "ada6ccae9353762ea32372a9af05b1e3db136139",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/chaiyot/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/fields/Customer_Email__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/fields/Customer_Email__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 682,
             "modifiedTime": 1538549648848,
             "changeTime": 1538549648848,
-            "contentHash": "3a8b971d1b2bf5458826a1fc463cd1292ed624b4"
+            "contentHash": "3a8b971d1b2bf5458826a1fc463cd1292ed624b4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/chaiyot/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/fields/Customer_Name__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/fields/Customer_Name__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 678,
             "modifiedTime": 1538549648850,
             "changeTime": 1538549648850,
-            "contentHash": "e4f1df3e02d40f7ab5849f0de895b2628b5e7245"
+            "contentHash": "e4f1df3e02d40f7ab5849f0de895b2628b5e7245",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/chaiyot/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/fields/Customer_State__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/fields/Customer_State__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 397,
             "modifiedTime": 1538549648851,
             "changeTime": 1538549648851,
-            "contentHash": "443845b358ba1fef20224455bd30fe5df3721d36"
+            "contentHash": "443845b358ba1fef20224455bd30fe5df3721d36",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/chaiyot/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/fields/Customer_Status__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/fields/Customer_Status__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 672,
             "modifiedTime": 1538549648851,
             "changeTime": 1538549648851,
-            "contentHash": "5c36e886f35e6c26c0f97c07da590ff509975cad"
+            "contentHash": "5c36e886f35e6c26c0f97c07da590ff509975cad",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/chaiyot/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/fields/Sobject_Type__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/fields/Sobject_Type__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 549,
             "modifiedTime": 1538549648851,
             "changeTime": 1538549648851,
-            "contentHash": "77074a9a7043bdfbe4418f947d5d46c6245f89c2"
+            "contentHash": "77074a9a7043bdfbe4418f947d5d46c6245f89c2",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/chaiyot/dev/myeasy/force-app/main/default/layouts/Customer_Fields__mdt-Customer Fields Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/layouts/Customer_Fields__mdt-Customer Fields Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 3198,
             "modifiedTime": 1538549648861,
             "changeTime": 1538549648861,
-            "contentHash": "fdcd74fa04e0fd0eb33b62ccbcb57dfc2caf65d9"
+            "contentHash": "fdcd74fa04e0fd0eb33b62ccbcb57dfc2caf65d9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/chaiyot/dev/myeasy/force-app/main/default/classes/customerServices.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/classes/customerServices.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
             "modifiedTime": 1538549648863,
             "changeTime": 1538549648863,
-            "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5"
+            "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/chaiyot/dev/myeasy/force-app/main/default/classes/customerServices.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/classes/customerServices.cls",
             "isDirectory": false,
+            "size": 1716,
+            "modifiedTime": 1538549909366,
+            "changeTime": 1538549909366,
+            "contentHash": "c4ed4e4be298f0ba3bdec45a6cecc279a05c959b",
             "isMetadataFile": false,
-            "size": 34,
-            "modifiedTime": 1538549648867,
-            "changeTime": 1538549648867,
-            "contentHash": "7a6ba2655d73005098710a1e4d52c5828cfb2dcc"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/chaiyot/dev/myeasy/force-app/main/default/customMetadata/Customer_Fields.Lead_Customer_Fields.md-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/customMetadata/Customer_Fields.Lead_Customer_Fields.md-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 983,
             "modifiedTime": 1538549648985,
             "changeTime": 1538549648985,
-            "contentHash": "da97824a35624b9c8e582ddc773fedfae864870d"
+            "contentHash": "da97824a35624b9c8e582ddc773fedfae864870d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/chaiyot/dev/myeasy/force-app/main/default/customMetadata/Customer_Fields.Contact_Customer_Fields.md-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/customMetadata/Customer_Fields.Contact_Customer_Fields.md-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 1003,
             "modifiedTime": 1538549648987,
             "changeTime": 1538549648987,
-            "contentHash": "2c88a0c59843bcf5dcef96726ce22e1c5bb202e8"
+            "contentHash": "2c88a0c59843bcf5dcef96726ce22e1c5bb202e8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/chaiyot/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt",
         {
-            "state": "u",
             "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1538549648844,
             "changeTime": 1538549648844,
-            "contentHash": "e1b2731ee3f217f9c3cae2b1daba8b54db2c1a48"
+            "contentHash": "e1b2731ee3f217f9c3cae2b1daba8b54db2c1a48",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/chaiyot/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/fields",
         {
-            "state": "u",
             "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/objects/Customer_Fields__mdt/fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 256,
             "modifiedTime": 1538549648851,
             "changeTime": 1538549648851,
-            "contentHash": "02b95b649e97ca8796cee9b0dbc2ab38723358e1"
+            "contentHash": "02b95b649e97ca8796cee9b0dbc2ab38723358e1",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/chaiyot/dev/myeasy/force-app/main/default/classes",
         {
-            "state": "u",
             "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/classes",
             "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1538549953363,
+            "changeTime": 1538549953363,
+            "contentHash": "db8d4fb2830b729e355c21338865355650835a05",
             "isMetadataFile": false,
-            "size": 128,
-            "modifiedTime": 1538549648866,
-            "changeTime": 1538549648866,
-            "contentHash": "14e8684058d2f30171f82c0d5a97455927bcfbe0"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/chaiyot/dev/myeasy/force-app/main/default/customMetadata",
         {
-            "state": "u",
             "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/customMetadata",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1538549648987,
             "changeTime": 1538549648987,
-            "contentHash": "8c4a1bc7d3669586825751418de2b87ab0cc82dd"
+            "contentHash": "8c4a1bc7d3669586825751418de2b87ab0cc82dd",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/classes/reservationManagerController.cls-meta.xml",
+        {
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/classes/reservationManagerController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1538549953361,
+            "changeTime": 1538549953361,
+            "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/classes/reservationManagerController.cls",
+        {
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/classes/reservationManagerController.cls",
+            "isDirectory": false,
+            "size": 1774,
+            "modifiedTime": 1538550015266,
+            "changeTime": 1538550015266,
+            "contentHash": "35148284d9614a48ac59fb034730780d2108c807",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ]
 ]
