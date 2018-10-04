@@ -32,31 +32,27 @@
     [
         "/Users/chaiyot/dev/myeasy/force-app/main/default",
         {
+            "state": "u",
             "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default",
             "isDirectory": true,
-            "size": 384,
-            "modifiedTime": 1538549648985,
-            "changeTime": 1538549648985,
-            "contentHash": "baf36054dcf75bbaf0b253b6ede0b43529a3cc52",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 576,
+            "modifiedTime": 1538619320128,
+            "changeTime": 1538619320128,
+            "contentHash": "96ad3559794e4b43b247c8f981ac4b501714cb0a"
         }
     ],
     [
         "/Users/chaiyot/dev/myeasy/force-app/main/default/aura",
         {
+            "state": "u",
             "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/aura",
             "isDirectory": true,
-            "size": 64,
-            "modifiedTime": 1538538616614,
-            "changeTime": 1538538616614,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 352,
+            "modifiedTime": 1538619320126,
+            "changeTime": 1538619320126,
+            "contentHash": "089a0742a9d8a277f309837a4529c8f6b6310ef4"
         }
     ],
     [
@@ -633,14 +629,13 @@
         {
             "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/layouts/Space__c-Space Layout.layout-meta.xml",
             "isDirectory": false,
-            "size": 3213,
-            "modifiedTime": 1538540852770,
-            "changeTime": 1538540852770,
-            "contentHash": "4c529ab559c66367f2e5cab431883b426408678b",
+            "size": 3208,
+            "modifiedTime": 1538550462582,
+            "changeTime": 1538550462582,
+            "contentHash": "5ec5808fc48457ce90c31d4d5774b9bc94178a98",
             "isMetadataFile": true,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -693,14 +688,12 @@
         {
             "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "size": 10585,
-            "modifiedTime": 1538549648892,
-            "changeTime": 1538549648892,
-            "contentHash": "1ab3334f3ae0e9295932c162b2e414cd717b5d27",
+            "size": 11330,
+            "modifiedTime": 1538559958717,
+            "changeTime": 1538559958717,
+            "contentHash": "0318766062f21f9b292d3bcad61e11aa0d9f045f",
             "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
@@ -708,14 +701,12 @@
         {
             "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "size": 10249,
-            "modifiedTime": 1538549648915,
-            "changeTime": 1538549648915,
-            "contentHash": "45c9253ba86a06ed9230647e0ba57dffc8a6c873",
+            "size": 10994,
+            "modifiedTime": 1538559958757,
+            "changeTime": 1538559958757,
+            "contentHash": "f582a749d8c32425ff3f1812288512aeb45af7fe",
             "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
@@ -723,14 +714,12 @@
         {
             "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
-            "size": 24649,
-            "modifiedTime": 1538549648975,
-            "changeTime": 1538549648975,
-            "contentHash": "3a4bf34d7220b9d87911e7e3a3dc5a59678ebca5",
+            "size": 25391,
+            "modifiedTime": 1538559958812,
+            "changeTime": 1538559958812,
+            "contentHash": "169a7caf19b720896b371eb20a7cfc1ebabf3b0e",
             "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
@@ -738,14 +727,12 @@
         {
             "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "size": 10245,
-            "modifiedTime": 1538549648983,
-            "changeTime": 1538549648983,
-            "contentHash": "dc855fa69bf5bea2c4adc34229f862facfc02f84",
+            "size": 10990,
+            "modifiedTime": 1538559958833,
+            "changeTime": 1538559958833,
+            "contentHash": "1550bbd5112c1e9e33d2c93dad8b77e0aa51b444",
             "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
@@ -918,14 +905,12 @@
         {
             "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/tabs",
             "isDirectory": true,
-            "size": 160,
-            "modifiedTime": 1538542067049,
-            "changeTime": 1538542067049,
-            "contentHash": "a1a3c3b675f3be961d8e3cf8e64bbfa73b7a4bef",
+            "size": 192,
+            "modifiedTime": 1538559958666,
+            "changeTime": 1538559958666,
+            "contentHash": "03f0b01577c78aacd146f5f12f88a3b847bbd931",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
@@ -1218,14 +1203,12 @@
         {
             "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/classes",
             "isDirectory": true,
-            "size": 192,
-            "modifiedTime": 1538549953363,
-            "changeTime": 1538549953363,
-            "contentHash": "db8d4fb2830b729e355c21338865355650835a05",
+            "size": 256,
+            "modifiedTime": 1538559958683,
+            "changeTime": 1538559958683,
+            "contentHash": "d5a04d3553b138a27ad9f7ee49d65723d30fe507",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
@@ -1271,6 +1254,799 @@
             "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/customerTile/customerTile.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/customerTile/customerTile.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1538550722853,
+            "changeTime": 1538550722853,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/customerTile/customerTileController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/customerTile/customerTileController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1329,
+            "modifiedTime": 1538619320115,
+            "changeTime": 1538619320115,
+            "contentHash": "560999fea98d5d487974d146ac8f14c5a4da1f99"
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/customerTile/customerTile.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/customerTile/customerTile.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1590,
+            "modifiedTime": 1538619320117,
+            "changeTime": 1538619320117,
+            "contentHash": "cfe84e2252f1a87772dbe02d0aedb16803021354"
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/customerTile",
+        {
+            "state": "u",
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/customerTile",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1538619320117,
+            "changeTime": 1538619320117,
+            "contentHash": "c4bd58ae7663c68dc57648f6a93adc1c7202cef9"
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/customerList/customerList.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/customerList/customerList.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1538550919605,
+            "changeTime": 1538550919605,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/customerList/customerList.cmp",
+        {
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/customerList/customerList.cmp",
+            "isDirectory": false,
+            "size": 729,
+            "modifiedTime": 1538550919606,
+            "changeTime": 1538550919606,
+            "contentHash": "152622c26ed9cdb2b9b19b99592039d3ed59081b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/customerList",
+        {
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/customerList",
+            "isDirectory": true,
+            "size": 224,
+            "modifiedTime": 1538559958659,
+            "changeTime": 1538559958659,
+            "contentHash": "b5c213d13d76df90d4462131a018318545af2ad9",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/customerList/customerListController.js",
+        {
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/customerList/customerListController.js",
+            "isDirectory": false,
+            "size": 549,
+            "modifiedTime": 1538559958659,
+            "changeTime": 1538559958659,
+            "contentHash": "e1997333a78bba794aac83e0f3491e4ac6b0680e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/customerList/customerListHelper.js",
+        {
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/customerList/customerListHelper.js",
+            "isDirectory": false,
+            "size": 368,
+            "modifiedTime": 1538551241231,
+            "changeTime": 1538551241231,
+            "contentHash": "f199dea07c23eee1dac3d40025f53ee36e0c2c93",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/customerListHarnessApp/customerListHarnessApp.app-meta.xml",
+        {
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/customerListHarnessApp/customerListHarnessApp.app-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1538551241235,
+            "changeTime": 1538551241235,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/customerListHarnessApp/customerListHarnessApp.app",
+        {
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/customerListHarnessApp/customerListHarnessApp.app",
+            "isDirectory": false,
+            "size": 61,
+            "modifiedTime": 1538551241236,
+            "changeTime": 1538551241236,
+            "contentHash": "7984a676e0685428bedaa144d4b618409468016a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/customerListHarnessApp",
+        {
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/customerListHarnessApp",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1538551241236,
+            "changeTime": 1538551241236,
+            "contentHash": "f4c17d44da5ac48d8c537d1fb2da17a3a275f4fa",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/customerTile/customerTileHelper.js",
+        {
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/customerTile/customerTileHelper.js",
+            "isDirectory": false,
+            "size": 658,
+            "modifiedTime": 1538559958642,
+            "changeTime": 1538559958642,
+            "contentHash": "92e20e8a2f341b6275714405ced39bcc162be0e2",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/marketService/marketService.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/marketService/marketService.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1538559958644,
+            "changeTime": 1538559958644,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/marketService/marketService.cmp",
+        {
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/marketService/marketService.cmp",
+            "isDirectory": false,
+            "size": 516,
+            "modifiedTime": 1538559958644,
+            "changeTime": 1538559958644,
+            "contentHash": "6155a39f4ffe92d8e7fcc3cc4d452b39e64b6e5c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/marketService/marketServiceController.js",
+        {
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/marketService/marketServiceController.js",
+            "isDirectory": false,
+            "size": 1126,
+            "modifiedTime": 1538559958644,
+            "changeTime": 1538559958644,
+            "contentHash": "3553bd6559b4a5422a9b74e65bc910ffa8534570",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/customerDetails/customerDetails.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/customerDetails/customerDetails.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1538559958645,
+            "changeTime": 1538559958645,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/customerDetails/customerDetailsHelper.js",
+        {
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/customerDetails/customerDetailsHelper.js",
+            "isDirectory": false,
+            "size": 741,
+            "modifiedTime": 1538559958646,
+            "changeTime": 1538559958646,
+            "contentHash": "f7383dfa589a36182d7021e74a45c6c5d9b7a9a1",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/customerDetails/customerDetails.cmp",
+        {
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/customerDetails/customerDetails.cmp",
+            "isDirectory": false,
+            "size": 4282,
+            "modifiedTime": 1538559958646,
+            "changeTime": 1538559958646,
+            "contentHash": "1dad89d0d08432734b8775ce7f3166d730de9962",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/customerDetails/customerDetailsController.js",
+        {
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/customerDetails/customerDetailsController.js",
+            "isDirectory": false,
+            "size": 1818,
+            "modifiedTime": 1538559958647,
+            "changeTime": 1538559958647,
+            "contentHash": "f5235c3b6294a936c822059c3c2f2cd73d66f88f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/customerDetails/customerDetails.design",
+        {
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/customerDetails/customerDetails.design",
+            "isDirectory": false,
+            "size": 471,
+            "modifiedTime": 1538559958647,
+            "changeTime": 1538559958647,
+            "contentHash": "2465c24ffc15a2d566040b5c5af8bd51c8b3d804",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/openRecordAction/openRecordAction.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/openRecordAction/openRecordAction.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1538559958648,
+            "changeTime": 1538559958648,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/openRecordAction/openRecordActionController.js",
+        {
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/openRecordAction/openRecordActionController.js",
+            "isDirectory": false,
+            "size": 579,
+            "modifiedTime": 1538559958649,
+            "changeTime": 1538559958649,
+            "contentHash": "4429cdefd86da55ecd225ebceb13f0bfe1e345bd",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/openRecordAction/openRecordAction.design",
+        {
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/openRecordAction/openRecordAction.design",
+            "isDirectory": false,
+            "size": 160,
+            "modifiedTime": 1538559958649,
+            "changeTime": 1538559958649,
+            "contentHash": "71c611eef7647e56d00005513d8e014608317cef",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/openRecordAction/openRecordAction.cmp",
+        {
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/openRecordAction/openRecordAction.cmp",
+            "isDirectory": false,
+            "size": 258,
+            "modifiedTime": 1538559958649,
+            "changeTime": 1538559958649,
+            "contentHash": "856261b282d496b811c6bd9b3da772b512a49c42",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/reservationHelper/reservationHelper.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/reservationHelper/reservationHelper.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1538559958650,
+            "changeTime": 1538559958650,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/reservationHelper/reservationHelperHelper.js",
+        {
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/reservationHelper/reservationHelperHelper.js",
+            "isDirectory": false,
+            "size": 995,
+            "modifiedTime": 1538559958651,
+            "changeTime": 1538559958651,
+            "contentHash": "9d83cde23622b632068a10903ff83c0bf9141b8b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/reservationHelper/reservationHelper.cmp",
+        {
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/reservationHelper/reservationHelper.cmp",
+            "isDirectory": false,
+            "size": 1078,
+            "modifiedTime": 1538559958651,
+            "changeTime": 1538559958651,
+            "contentHash": "15ede58d67ad69fea72a952988df6483eff62bc9",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/reservationHelper/reservationHelperController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/reservationHelper/reservationHelperController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1328,
+            "modifiedTime": 1538619320123,
+            "changeTime": 1538619320123,
+            "contentHash": "9db36da765b7c7140a6d951d912836df102699e9"
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/customerList/customerList.design",
+        {
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/customerList/customerList.design",
+            "isDirectory": false,
+            "size": 186,
+            "modifiedTime": 1538559958658,
+            "changeTime": 1538559958658,
+            "contentHash": "3c5e3425150d89b530acb0ce30a2e09027678127",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/customerService/customerService.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/customerService/customerService.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1538559958660,
+            "changeTime": 1538559958660,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/customerService/customerService.cmp",
+        {
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/customerService/customerService.cmp",
+            "isDirectory": false,
+            "size": 359,
+            "modifiedTime": 1538559958661,
+            "changeTime": 1538559958661,
+            "contentHash": "47f3eddcb20658074618f60502b2e7f9f98fdad1",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/customerService/customerServiceController.js",
+        {
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/customerService/customerServiceController.js",
+            "isDirectory": false,
+            "size": 618,
+            "modifiedTime": 1538559958662,
+            "changeTime": 1538559958662,
+            "contentHash": "7bf90569ad9c73ab0411a9f32e981d44fb81c846",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/flexipages/Reservation_Manager.flexipage-meta.xml",
+        {
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/flexipages/Reservation_Manager.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 1153,
+            "modifiedTime": 1538559958663,
+            "changeTime": 1538559958663,
+            "contentHash": "63a6c155682e6089824435a9d4373f29e2235ae8",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/flexipages/Space_Management_UtilityBar.flexipage-meta.xml",
+        {
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/flexipages/Space_Management_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 390,
+            "modifiedTime": 1538559958665,
+            "changeTime": 1538559958665,
+            "contentHash": "e06a9729bbf240982a024a16f80809dff4655de2",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/tabs/Reservation_Manager.tab-meta.xml",
+        {
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/tabs/Reservation_Manager.tab-meta.xml",
+            "isDirectory": false,
+            "size": 339,
+            "modifiedTime": 1538559958666,
+            "changeTime": 1538559958666,
+            "contentHash": "41ddfe77fc77637247643b94c16d99443d831961",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/applications/standard__LightningBolt.app-meta.xml",
+        {
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/applications/standard__LightningBolt.app-meta.xml",
+            "isDirectory": false,
+            "size": 526,
+            "modifiedTime": 1538559958668,
+            "changeTime": 1538559958668,
+            "contentHash": "300e8f40d97f37e04e1de0314380dfa527270061",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/applications/Space_Management.app-meta.xml",
+        {
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/applications/Space_Management.app-meta.xml",
+            "isDirectory": false,
+            "size": 1432,
+            "modifiedTime": 1538559958670,
+            "changeTime": 1538559958670,
+            "contentHash": "605c2923618a3c41598b6a91ef3775727af38712",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/flows/Create_Reservation-1.flow-meta.xml",
+        {
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/flows/Create_Reservation-1.flow-meta.xml",
+            "isDirectory": false,
+            "size": 10980,
+            "modifiedTime": 1538559958679,
+            "changeTime": 1538559958679,
+            "contentHash": "170f6091013a62516c918d36074a605775b40b1f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/flowDefinitions/Create_Reservation.flowDefinition-meta.xml",
+        {
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/flowDefinitions/Create_Reservation.flowDefinition-meta.xml",
+            "isDirectory": false,
+            "size": 171,
+            "modifiedTime": 1538559958681,
+            "changeTime": 1538559958681,
+            "contentHash": "84016bd12773aae2340e6057aede8139cb16f930",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/classes/marketServices.cls-meta.xml",
+        {
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/classes/marketServices.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1538559958682,
+            "changeTime": 1538559958682,
+            "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/classes/marketServices.cls",
+        {
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/classes/marketServices.cls",
+            "isDirectory": false,
+            "size": 555,
+            "modifiedTime": 1538559958683,
+            "changeTime": 1538559958683,
+            "contentHash": "6c7382bc7498b153a1f81b64928f36d3d490c236",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/contentassets/Picture1.asset-meta.xml",
+        {
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/contentassets/Picture1.asset-meta.xml",
+            "isDirectory": false,
+            "size": 529,
+            "modifiedTime": 1538559958835,
+            "changeTime": 1538559958835,
+            "contentHash": "4635156374d7680b4243fafef36b0ac4c12fc5dc",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/contentassets/Picture1.asset",
+        {
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/contentassets/Picture1.asset",
+            "isDirectory": false,
+            "size": 296207,
+            "modifiedTime": 1538559958836,
+            "changeTime": 1538559958836,
+            "contentHash": "e65594d7e789c289cc08dcc02bbbc29835105ffd",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/marketService",
+        {
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/marketService",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1538559958644,
+            "changeTime": 1538559958644,
+            "contentHash": "236380a092cbeeff756e489e78ba6b93a6c1eed7",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/customerDetails",
+        {
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/customerDetails",
+            "isDirectory": true,
+            "size": 224,
+            "modifiedTime": 1538559958647,
+            "changeTime": 1538559958647,
+            "contentHash": "90c25825552f67096b05b6a3bb72ad590d311435",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/openRecordAction",
+        {
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/openRecordAction",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1538559958649,
+            "changeTime": 1538559958649,
+            "contentHash": "7321c378df769877e40355f5bfce9a1b58e27b86",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/reservationHelper",
+        {
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/reservationHelper",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1538559958652,
+            "changeTime": 1538559958652,
+            "contentHash": "e14a5c0dee87372f52d8a7288d8ab15b5b9b5912",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/customerService",
+        {
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/customerService",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1538559958662,
+            "changeTime": 1538559958662,
+            "contentHash": "18684102a7cb0b8d23d4082c21d7c56710f93020",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/flexipages",
+        {
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1538559958665,
+            "changeTime": 1538559958665,
+            "contentHash": "39e1472f6b460f4fe240d4def5990e32a3498957",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/applications",
+        {
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/applications",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1538559958670,
+            "changeTime": 1538559958670,
+            "contentHash": "70c0161ec76b1a3cbdd925660912d23d68bf9cda",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/flows",
+        {
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/flows",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1538559958679,
+            "changeTime": 1538559958679,
+            "contentHash": "03597716608acc3fe4370c78615c0b51502dc08b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/flowDefinitions",
+        {
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/flowDefinitions",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1538559958681,
+            "changeTime": 1538559958681,
+            "contentHash": "660d93f5f527458cf9c9c83794efbc5a7169e5e4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/contentassets",
+        {
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/contentassets",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1538559958836,
+            "changeTime": 1538559958836,
+            "contentHash": "dfdc138c824c8140c5c3e58bc68aef48022dae89",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/customerTile/customerTile.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/customerTile/customerTile.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 37,
+            "modifiedTime": 1538619320115,
+            "changeTime": 1538619320115,
+            "contentHash": "d0840adc26bdefc45e4f8b1ca115367324a16255"
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/muteTiles/muteTiles.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/muteTiles/muteTiles.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1538619320126,
+            "changeTime": 1538619320126,
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e"
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/muteTiles/muteTiles.evt",
+        {
+            "state": "u",
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/muteTiles/muteTiles.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 181,
+            "modifiedTime": 1538619320127,
+            "changeTime": 1538619320127,
+            "contentHash": "3c2a958917f01d4e5d49610e01c514e1c3a3ad8e"
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/components/reservationTile.component-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/components/reservationTile.component-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 189,
+            "modifiedTime": 1538619320128,
+            "changeTime": 1538619320128,
+            "contentHash": "e9b1b59712b17c80d0ae2c064a70718574f4990e"
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/components/reservationTile.component",
+        {
+            "state": "u",
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/components/reservationTile.component",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 35,
+            "modifiedTime": 1538619320129,
+            "changeTime": 1538619320129,
+            "contentHash": "e2b0eaf3c0a4537b8351409fae64633f89d02eca"
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/muteTiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/aura/muteTiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1538619320127,
+            "changeTime": 1538619320127,
+            "contentHash": "0a75aa075d8e180e02b29af9db3e9075b9db772e"
+        }
+    ],
+    [
+        "/Users/chaiyot/dev/myeasy/force-app/main/default/components",
+        {
+            "state": "u",
+            "sourcePath": "/Users/chaiyot/dev/myeasy/force-app/main/default/components",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1538619320129,
+            "changeTime": 1538619320129,
+            "contentHash": "5b1d319d8b38b02bff4708cd1be9f8a91c2449ac"
         }
     ]
 ]
